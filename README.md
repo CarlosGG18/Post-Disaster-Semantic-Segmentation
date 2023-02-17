@@ -6,6 +6,7 @@
 * [Overview](#Overview)
 * [Requirements](#Requirements)
 * [Dataset](#Dataset)
+* [Models](#Models)
 * [References](#References)
 * [Contributions](#Contributions)
 
