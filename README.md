@@ -1,4 +1,4 @@
-# Post-Disaster-Semenatic-Segmentation
+# Post-Disaster-Semantic-Segmentation
 
 ![download (11)](https://user-images.githubusercontent.com/117116368/218915983-da8ef616-fc88-49b6-b031-90f7faa0aa9e.png)
 ## Table of Contents
